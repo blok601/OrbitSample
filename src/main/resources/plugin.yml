@@ -1,0 +1,13 @@
+name: Orbit
+version: '${project.version}'
+main: me.blok.orbit.Orbit
+authors: [ Blok ]
+description: Orbit trial plugin
+website: Blok#3221
+commands:
+  fire:
+    description: Set a user on fire
+  lightning:
+    description: Strike a player with lightning
+  explode:
+    description: Explode a player
